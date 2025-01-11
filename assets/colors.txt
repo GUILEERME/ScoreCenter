@@ -1,1 +1,24 @@
+Azul Escuro (#1B263B) como fundo principal para:
 
+    Cabeçalho fixo.
+    Rodapé.
+    Painéis laterais (menus ou widgets).
+
+Cinza Claro (#E5E5E5) para:
+
+    Seções que destacam informações, como estatísticas detalhadas.
+    Fundos de cartões ou tabelas.
+
+Azul Neon (#4E9F3D) para:
+
+    Botões principais (por exemplo, "Ver Mais", "Detalhes do Jogo").
+    Links ativos ou hover (quando o cursor passa por cima).
+    Indicadores importantes, como número de gols ou resultados destacados.
+
+Branco (#FFFFFF) para textos em fundos escuros (Azul Escuro ou Preto).
+Preto (#000000) para textos em fundos claros (Cinza Claro ou Branco).
+
+Azul Neon (#4E9F3D) para chamar atenção:
+
+    Ícones de notificação.
+    Números e dados importantes (exemplo: estatísticas ao vivo).
